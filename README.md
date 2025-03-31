@@ -5,10 +5,15 @@ ABCInsuranceApp/
 │── src/
 
 │      ├── main/
+
 │      │      ├── java/                # Java source code (Servlets, DAO, Models)
+
 │      │      ├── webapp/              # Web application frontend (JSP, CSS, JS)
+
 │      │      │      ├── assets/          # Static assets (icons, fonts, etc.)
+
 │      │      │      ├── css/             # Stylesheets
+
 │      │      │      ├── js/              # JavaScript files
 
 │      │      │      ├── images/          # Image files
